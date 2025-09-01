@@ -1,4 +1,4 @@
-# Cozy Comfort - Manufacturer Service
+# Manufacturer Service
 
 This is the backend service for the Manufacturer module. It is built with **Flask** and was originally developed in a Jupyter Notebook for prototyping.
 
